@@ -17,7 +17,7 @@
     "minimatch": "^3.0.4",
     "nyc": "^11.2.1",
     "opener": "^1.4.2",
-    "wpt-runner": "^2.2.0"
+    "wpt-runner": "^2.6.0"
   },
   "nyc": {
     "include": [
